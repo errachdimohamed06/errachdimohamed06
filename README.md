@@ -245,10 +245,6 @@ My journey has taken me through research laboratories, data science projects, an
 
 <h2 align="center">📈 GitHub Overview</h2>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=errachdimohamed06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errachdimohamed06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=errachdimohamed06&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>

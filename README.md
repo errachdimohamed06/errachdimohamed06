@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📍 Paris| France fr
+  📍 Paris| France 
 </p>
 
 <p align="center">
